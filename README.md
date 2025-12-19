@@ -1,4 +1,8 @@
 # SpaceInVRs
+> [!NOTE]  
+> This project was forked from [SergioManuelJob/CleanBeach-Project](https://github.com/SergioManuelJob/CleanBeach-Project) with the sole purpose of making it easier for me, [GabRodPul](https://github.com/GabRodPul), and others to find it in my profile.
+> <br/> It wouldn't have been completed without the work of me and [kvalls](https://github.com/kvalls/), so please make sure to check commits to get a general idea of what each of us did.
+> <br/> No significant modifications have been made to the original project, aside from the addition of this note.
 
 The project will feature a virtual reality game made in Unity, a database/server with MySQL and Node.js and a webpage built with Ionic + Angular where you can log in, see your score, and view certain data shown in graphs.
 
