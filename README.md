@@ -1,6 +1,6 @@
 # SpaceInVRs
 > [!NOTE]  
-> This project was originally made for AIJU when studying Multi-Platform App Development 2024/25 course in [IES El Rincón](https://ieselrincon.es), forked from [kvalls/SpaceInVRs](https://github.com/kvalls/SpaceInVRs) with the sole purpose of making it easier for me, [GabRodPul](https://github.com/GabRodPul), and others to find it in my profile.
+> This project was originally made for AIJU when studying Multi-Platform App Development 2024/25 course from [IES El Rincón](https://ieselrincon.es), forked from [kvalls/SpaceInVRs](https://github.com/kvalls/SpaceInVRs) with the sole purpose of making it easier for me, [GabRodPul](https://github.com/GabRodPul), and others to find it in my profile.
 > <br/> It wouldn't have been completed without the work of me and [kvalls](https://github.com/kvalls/), so please make sure to check commits to get a general idea of what each of us did.
 > <br/> No significant modifications have been made to the original project, aside from the addition of this note.
 
